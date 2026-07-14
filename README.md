@@ -24,6 +24,8 @@
 
 [Debugify](https://modrinth.com/mod/QwxR6Gcd) by isXander
 
+[DropConfirm](https://modrinth.com/mod/I45rjF2F) by pupbrained
+
 [Dynamic FPS](https://modrinth.com/mod/LQ3K71Q1) by juliand665, LostLuma
 
 [Easy-freecam](https://modrinth.com/mod/CHn2cb7p) by Elpu7
